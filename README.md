@@ -42,10 +42,6 @@ En Windows, ejecutar:
 
 mvnw.cmd spring-boot:run
 
-En Linux o macOS, ejecutar:
-
-./mvnw spring-boot:run
-
 Variables de entorno necesarias
 
 - DB_URL: dirección de conexión a la base de datos MySQL.
